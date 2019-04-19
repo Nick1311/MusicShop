@@ -65,17 +65,3 @@ public class TopicService
     	
     }
 }
-//Do Postmana
-//{
-//        "id": "001",
-//        "name": "Stratocaster 1968",
-//        "price": "12000"
-//        }
-//        "id": "002",
-//        "name": "Jaguar 1980",
-//        "price": "17000"
-//        }
-//        "id": "003",
-//        "name": "Les Paul 2009",
-//        "price": "11000"
-//        }
