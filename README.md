@@ -6,7 +6,7 @@ Web application allow to connecting to database using Spring Data JPA. Object an
 
 To run this project use command:
 ./mvnw spring-boot:run
-or run StronaApplication() method inside your IDE
+or run StronaApplication() method inside your IDE.
 
 For testing application in Postman you can use follwoing informations:
 
